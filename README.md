@@ -1,2 +1,3 @@
 # demo
-demo test 1
+## Table of Contents
+- [node-switchbot](#demo)
